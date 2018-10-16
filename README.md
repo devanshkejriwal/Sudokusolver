@@ -1,2 +1,2 @@
 # Sudokusolver
-A sudoku Solver made on C using the backtracking algorithm
+A sudoku Solver made with C using the backtracking algorithm
